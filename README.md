@@ -120,10 +120,5 @@ let outputImage = mask.cutout(image: image, resize: false)
 UIImage *outputImage = [mask cutoutWithImage:image resize:false];
 ```
 
-To try these examples, and find out about more options please take a look at the [Examples](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK/releases).
-
-## Further reading
-* Check out TinyCrayon [guides](https://tinycrayon.github.io/TinyCrayon-iOS-SDK/guides-iOS/get-started.html) and [API reference](https://tinycrayon.github.io/TinyCrayon-iOS-SDK/docs-iOS/index.html) for more details.
-
 ## License
 The MIT license
